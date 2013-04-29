@@ -1,7 +1,7 @@
-Firefeed
+Contri-feed
 ========
-Firefeed is a web app that lets users post small messages called *sparks* to
-their feed. You can follow other users, and their sparks will appear on your
+Web app that lets users post small messages called *contribution* to
+their feed. You can follow other users, and their contributions will appear on your
 feed.
 
 ### [Live Demo](http://firefeed.io)
