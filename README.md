@@ -1,8 +1,6 @@
-Contri-feed
+Contribution-feed
 ========
-Web app that lets users post small messages called *contribution* to
-their feed. You can follow other users, and their contributions will appear on your
-feed.
+Web app that lets users post small messages like in twitter.
 
 ### [Live Demo](http://firefeed.io)
 
